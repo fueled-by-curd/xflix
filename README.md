@@ -1,3 +1,4 @@
 # REST API for a simple video hosting app
-perform basic crud operations. implement query parameter based filtering fetch request on videos based on video properties.
-unit tests to check functioning of code
+Backend design of a simple video hosting application based on an API contract. 
+The API allows for CRUD operations and video search based on properties. 
+Unit tests to check the functioning of code.
